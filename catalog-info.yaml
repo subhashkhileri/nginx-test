@@ -9,6 +9,6 @@ metadata:
     argocd/app-name: nginx
 spec:
   type: website
-  system: guestbook
+  system: nginx
   owner: janus-authors
   lifecycle: production
