@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: guestbook
-  title: Guest Book
+  name: nginx
+  title: nginx test
   description: |
     Example of an application deployed to ArgoCD for testing the ArgoCD plugin
   annotations:
